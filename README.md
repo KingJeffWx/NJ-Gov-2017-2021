@@ -1,6 +1,6 @@
 # NJ-Gov-2017-2021
 
-Contains data about the New Jersey Gubernatorial elections in 2017 and 2021.
+Contains data about the New Jersey Gubernatorial elections in 2017 and 2021, broken down by municipality.
 
 Data sources:
 
